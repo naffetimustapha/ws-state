@@ -1,0 +1,8 @@
+.mid{
+    border-radius: 50%;
+    width: 400px;
+    height: 480px;}
+    .top{
+        display: flex;
+        margin: auto;
+        justify-content: center;}
